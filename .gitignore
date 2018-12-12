@@ -32,7 +32,11 @@
 *.app
 
 #solution pieces
-.vs/Tracking_Tree/v15/*
+*.db
 Tracking_Tree.vcxproj
 Tracking_Tree.vcxproj.fliters
-x64/*
+*.log
+*.orig
+*.idp
+*.pdp
+*.tlog
